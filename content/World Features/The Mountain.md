@@ -1,0 +1,4 @@
+#WorldFeatures 
+In the year 200BM (Before Mountain) there was a group of wizards who wanted to create a very powerful spell, one so that they could destroy their enemys with a flaming dragon. They miscalculated, their spell had not created fire in the shape of a dragon but a cloud, an exspanding cloud razing every city in its wake. There was a small group of exstreamly inteligent people from all the races of the world who in a combined effort  used their basic magic to mine away at the mountain sealing themselves in just as the fire started to aprouch.
+
+The Mountain or now city called "Adva" (This is short for advancement)

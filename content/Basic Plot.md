@@ -1,0 +1,5 @@
+- Everyone is stuck inside [[The Mountain|the mountain]] because of (complicated magic, burned the air and made it impossible to breathe outside)
+	- This is not true but, this is what the public is told
+		- Because the outside world was destroyed by magic all non aproved magic is banned.
+			- (Any inventions by artificers, or any new spells created with the theory of magic.)
+- [[Differed Rules|Homebrew is major]]
