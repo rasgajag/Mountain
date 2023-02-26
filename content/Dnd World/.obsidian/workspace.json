@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "b9643a10291934ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "5afec4daf7921cd8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e607526524db01e7",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "ed3b6b3b5da466c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World Features/The Mountain.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2333287c4537202d",
+    "type": "split",
+    "children": [
+      {
+        "id": "1715ca9e9579f46d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f61c83fd3ed1185e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d0462d09ef1da098",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b431322f8c8a2c64",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "aeab93c06160a973",
+    "type": "split",
+    "children": [
+      {
+        "id": "336c91bbc7fa9caf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "16db43bac936e7a5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "World Features/The Mountain.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "352eb4a2fa0cfa03",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "World Features/The Mountain.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ddcf57025a7473da",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5824cd33ebb41875",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "World Features/The Mountain.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f61c83fd3ed1185e",
+  "lastOpenFiles": [
+    "Basic Plot.md",
+    "World Features/The Mountain.md",
+    "Homebrew/Spells.md",
+    "Homebrew/Races.md",
+    "Homebrew/Feats.md",
+    "Homebrew/Differed Rules.md",
+    "Homebrew/Classes.md",
+    "Homebrew/Backgrounds.md",
+    "Homebrew/Aproved Spells.md",
+    "World Features",
+    "Homebrew"
+  ]
+}
